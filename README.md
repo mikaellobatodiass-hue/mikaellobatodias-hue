@@ -64,11 +64,11 @@ dev = {
 
 <div align="center">
 
-![Mikael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikaellobatodiass-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikaellobatodiass-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)](https://github.com/mikaellobatodiass-hue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaellobatodiass-hue&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaellobatodiass-hue&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/mikaellobatodiass-hue)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mikaellobatodiass-hue&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mikaellobatodiass-hue&theme=tokyonight&hide_border=true)](https://github.com/mikaellobatodiass-hue)
 
 </div>
 
