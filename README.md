@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Mikael+Dias+👋;Back-end+Developer+🚀;Python+%7C+Node.js+%7C+APIs+REST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mikael+Dias+%F0%9F%91%8B;Back-end+Developer+%F0%9F%9A%80;Python+%7C+Node.js+%7C+APIs+REST" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mikael-lds.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-dias)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikaellobatodias-hue)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikaellobatodiass-hue)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaellobatodias@gmail.com)
 
 </div>
@@ -64,11 +64,11 @@ dev = {
 
 <div align="center">
 
-![Mikael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikaellobatodias-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Mikael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikaellobatodiass-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaellobatodias-hue&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaellobatodiass-hue&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mikaellobatodias-hue&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=mikaellobatodiass-hue&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -78,14 +78,14 @@ dev = {
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🏥 ClinicHub](https://github.com/mikaellobatodias-hue/clinichub) | Sistema de gestão para clínicas | Python · PostgreSQL |
-| [💰 Finflow Dashboard](https://github.com/mikaellobatodias-hue/finflow-dashboard) | Dashboard financeiro | Node.js · MySQL |
+| [🏥 ClinicHub](https://github.com/mikaellobatodiass-hue/clinichub) | Sistema de gestão para clínicas | Python · PostgreSQL |
+| [💰 Finflow Dashboard](https://github.com/mikaellobatodiass-hue/finflow-dashboard) | Dashboard financeiro | Node.js · MySQL |
 | [🌐 Mikael LDS](https://mikael-lds.vercel.app/) | Portfólio pessoal | HTML · CSS · JS |
 
 ---
 
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mikaellobatodias-hue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mikaellobatodiass-hue)
 
 </div>
