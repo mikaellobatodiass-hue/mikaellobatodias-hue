@@ -1,16 +1,9 @@
 <div align="center">
 
-```
-███╗   ███╗██╗██╗  ██╗ █████╗ ███████╗██╗
-████╗ ████║██║██║ ██╔╝██╔══██╗██╔════╝██║
-██╔████╔██║██║█████╔╝ ███████║█████╗  ██║
-██║╚██╔╝██║██║██╔═██╗ ██╔══██║██╔══╝  ██║
-██║ ╚═╝ ██║██║██║  ██╗██║  ██║███████╗███████╗
-╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
-```
+# Hi there, I'm Mikael Dias 👋
+### 🚀 Back-end Developer | Python · Node.js · APIs REST
 
-### 👋 Olá, eu sou o Mikael Dias
-**Desenvolvedor Back-end em formação** | Python · Node.js · APIs REST
+
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mikael-lds.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-dias)
